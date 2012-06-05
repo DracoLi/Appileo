@@ -1,2 +1,5 @@
 # temp files and log files
 /tmp
+
+# Macos files
+.DS_STORE
