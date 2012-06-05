@@ -1,0 +1,28 @@
+[
+  "Disney": ["disney"],
+  "Airplanes": ["airplane"]
+  "Animals": ["animal"],
+  "Amusement Parks": ["amusement park"],
+  "Aquariums": ["aquarium"],
+  "Arts and Crafts": ["art", "craft"],
+  "Astronauts": ["astronaut"],
+  "Ballons": ["ballon"],
+  "Basketball": ["basketball"],
+  "Bicycles": ["bicycle"],
+  "Butterflies": ["Butterfly"],
+  "Cars": ["car"],
+  "Colouring": ["color", "colour", "coluring", "coloring"],
+  "Dinosaurs": ["dinosaur"],
+  "Fashion": ["fashion"],
+  "Flowers": ["flower"],
+  "Football": ["football"],
+  "Guitar": ["guitar"],
+  "Sports": ["sport"],
+  "Kites": ["kite"],
+  "Music": ["music", "melody", "song", "sing"],
+  "Trains": ["train"],
+  "Princesses": ["Princess"],
+  "Monsters": ["monster"],
+  "Trucks", ["truck"],
+  "Zoo", ["zoo"]
+]
